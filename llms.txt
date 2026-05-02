@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Omaha
+
+> Geotechnical engineering services in Omaha, United States.
+
+## Services
+- [Anchors](https://omaha.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://omaha.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://omaha.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://omaha.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://omaha.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://omaha.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://omaha.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://omaha.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://omaha.geotechnicalengineering1.org/footings/)
+- [Foundations](https://omaha.geotechnicalengineering1.org/foundations/)
+- [Grain Size](https://omaha.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://omaha.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://omaha.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://omaha.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://omaha.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://omaha.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://omaha.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://omaha.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://omaha.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://omaha.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://omaha.geotechnicalengineering1.org/piles/)
+- [Proctor Tests](https://omaha.geotechnicalengineering1.org/proctor-tests/)
+- [Resistivity](https://omaha.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://omaha.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://omaha.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://omaha.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://omaha.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://omaha.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://omaha.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://omaha.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://omaha.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://omaha.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://omaha.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://omaha.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://omaha.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://omaha.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://omaha.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://omaha.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://omaha.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://omaha.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Omaha, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
